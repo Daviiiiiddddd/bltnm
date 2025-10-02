@@ -1,5 +1,5 @@
 Bltnm - Discord Music Bot Conditions of Use (Ramallah Edition)
-Welcome to Bltnm (Platinum)—more than just a music bot, we are the digital extension of the independent Palestinian Bltnm record label based in Ramallah. We are here to deliver an exceptional, high-fidelity audio experience to your server, reflecting the quality of the original art project we stem from. Please review and adhere to these conditions before using this service.
+Welcome to Bltnm (Bltnm)—more than just a music bot, we are the digital extension of the independent Palestinian Bltnm record label based in Ramallah. We are here to deliver an exceptional, high-fidelity audio experience to your server, reflecting the quality of the original art project we stem from. Please review and adhere to these conditions before using this service.
 
 1. Acknowledgment and Identity
 Bltnm is a music bot service offered as part of the initiative of an independent Palestinian company headquartered in Ramallah.
